@@ -1,5 +1,9 @@
-### Hi there 👋
+### Olá, queridos ✨️
+### Meu nome é Luana e esse é o meu perfil do GitHub🌈
 
+• 🏗 Atualmente sou estudante de Engenharia Civil
+• 📚 Amante de livros
+• 💻 Desenvolvedora Front-End
 <!--
 **luana8mai/luana8mai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
