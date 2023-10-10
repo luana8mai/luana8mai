@@ -1,5 +1,5 @@
 ### Olá, queridos ✨️
-### Meu nome é Luana e esse é o meu perfil do GitHub🌈
+### Meu nome é Luana e esse é o meu perfil GitHub
 
 - 🏗 Atualmente sou estudante de Engenharia Civil
 - 📚 Amante de livros
